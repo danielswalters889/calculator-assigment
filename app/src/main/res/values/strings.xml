@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator Application</string>
+    <string name="enter_number">0</string>
+    <string name="button_add">Add</string>
+    <string name="button_subtract">Subtract</string>
+    <string name="view_answer" translatable="false">View Answer</string>
+    <string name="button_multiply">Multiply</string>
+    <string name="button_divide">Divide</string>
+</resources>
